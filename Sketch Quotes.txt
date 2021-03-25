@@ -15,4 +15,10 @@
 `#15 - I wanna see that movie again, let's pirate it`,
 `#16 - It's gonna go supernova and all the balls will turn into pubes`,
 `#17 - Never forget to pet your doggos.`,
-`#18 - Time to look up where Octopi poop.`]
+`#18 - Time to look up where Octopi poop.`,
+`#19 - I guess babies do go boom-boom.`,
+`#20 - Leg Enjoyers... I like that! Sounds fancy!`,
+`#21 - C'mon guys, I thought you were cultured!`,
+`#22 - Your butt has been slapped, and now it'll jiggle for 1,000 years.`,
+`#23 - I'm asking you why your nipple is so long.`,
+`#24 - We'll take away your Gay Rights and turn them into Gay Lefts.`]
